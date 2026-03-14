@@ -40,6 +40,28 @@ Shows yearly and monthly patient admissions and billing trends.
 
 ### 5. Hospital Performance Insights
 Advanced analysis including hospital resource summary, treatment summary, and root cause analysis.
+## Dashboard Screenshots
+
+### Hospital Analytics Dashboard
+
+![Hospital Dashboard](dashboard_overview.png)
+
+### Patient Analysis
+
+![Patient Analysis](patient_analysis.png)
+
+### Hospital & Financial Analysis
+
+![Financial Analysis](hospital_financial_analysis.png)
+
+### Trend & Time Analysis
+
+![Trend Analysis](trend_time_analysis.png)
+
+### Hospital Performance Insights
+
+![Performance Insights](hospital_performance_insights.png)
+
 
 ## Author
 Charan
