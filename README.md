@@ -1,3 +1,5 @@
+![Hospital Analytics Dashboard](dashboard_overview.png)
+
 Hospital Patient Analytics Dashboard (Power BI)
 
 Project Overview
